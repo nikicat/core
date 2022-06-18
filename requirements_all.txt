@@ -861,7 +861,7 @@ iammeter==0.1.7
 iaqualink==0.4.1
 
 # homeassistant.components.watson_tts
-ibm-watson==5.2.2
+#ibm-watson==5.2.2
 
 # homeassistant.components.watson_iot
 ibmiotf==0.3.4
@@ -1056,7 +1056,7 @@ mutagen==1.45.1
 mutesync==0.0.1
 
 # homeassistant.components.mycroft
-mycroftapi==2.0
+#mycroftapi==2.0
 
 # homeassistant.components.nad
 nad_receiver==0.3.0
@@ -1829,7 +1829,7 @@ pysmartapp==0.3.3
 pysmartthings==0.7.6
 
 # homeassistant.components.smarty
-pysmarty==0.8
+#pysmarty==0.8
 
 # homeassistant.components.edl21
 pysml==0.0.7
@@ -2256,7 +2256,7 @@ sucks==0.9.4
 sunwatcher==0.2.1
 
 # homeassistant.components.surepetcare
-surepy==0.7.2
+#surepy==0.7.2
 
 # homeassistant.components.swiss_hydrological_data
 swisshydrodata==0.1.0
